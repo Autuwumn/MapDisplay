@@ -1,0 +1,9 @@
+{
+    "name": "MapNameDisplay",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Autuwumn/MapDisplay",
+    "description": "Displays map name",
+    "dependencies": [
+        "willis81808-UnboundLib-3.2.6"
+    ]
+}
